@@ -32,6 +32,21 @@ h1 {
   color: #ffd700;
 }
 
+h2 {
+  color: #ffd700;
+  font-size: 20px;
+  margin-top: 32px;
+  margin-bottom: 6px;
+}
+
+a {
+  color: #ffd700;
+}
+
+a:hover {
+  color: #fff;
+}
+
 form {
   display: flex;
   flex-direction: column;
